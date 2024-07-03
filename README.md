@@ -73,18 +73,18 @@
 
 <br>
 <br>
- 🔭 Currently studying at JSPM's RSCOE <br>
-     SY-BTech <br>
-     Branch <b>Information Technology</b>
+ 🔭 Currently studying at MMIT Lohagaon<br>
+     TY-BE <br>
+     Branch <b>Computer Engineering</b>
  </div>
 <div align="center"> 
-  <a href="mailto:yashlende93@gmail.com">
+  <a href="mailto:surj24604@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/yash-l-852706259//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://yashl3616.github.io/yashportfolio/" target="_blank">
+  <a href="https://Suraj1213-ux.github.io/yashportfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
  </a> 
 </div>
@@ -131,10 +131,10 @@
 </div>-->
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashL3616&theme=tokyonight&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj1213-ux&theme=tokyonight&hide_border=true" />
 <p>
 <br>
 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/YashL3616)
+[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Suraj1213-ux)
