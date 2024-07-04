@@ -119,7 +119,7 @@
 
 ## Views
 <!--![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Ayush29Ayush&label=PROFILE+VIEWS&style=flat-square&color=green)-->
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=YashL3616&label=PROFILE+VIEWS&style=flat-square&color=orange)
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Suraj1213-ux&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 
 
@@ -137,4 +137,4 @@
 
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-[![Yash's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Suraj1213-ux)
+[![Suraj's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj1213-ux&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true)](https://github.com/Suraj1213-ux)
