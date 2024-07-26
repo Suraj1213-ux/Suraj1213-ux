@@ -1,8 +1,8 @@
- <h1 align="center">
+  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Jai+Siya+Ram!+🚩;+Jai+Hanuman!;" />
 </h1>
 
-<!--![Profile-Views-Conter](https://komarev.com/ghpvc/?username=Ayh29Ayush&lbe=PRIL+VIWSstyl=sqare&co
+<!--![Profile-Views-Conter](https://komarev.com/ghpvc/?username=Ayh29Ayush&lbe=PRIL+VIWSsyl=sqare&co
 or=gre)sgd-->
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Suraj1213-ux&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
