@@ -94,7 +94,7 @@
 ## ⚡ Technologies
 <!--## 👨🏻‍💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)-->
+[![LeetCode](https://img.shields.io/badge/-LeetCoe-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)-->
 
 
 ### Language
