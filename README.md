@@ -19,7 +19,7 @@
 
 <br>
 <br>
-  Suraj Sawant, currently pursuing BE degree in Computer Science from MMIT ((https://mmit.edu.in/))
+  Suraj Sawant, Currently pursuing BE degree in Computer Science from MMIT .
  </div>
 
  <h3 align="centre">Connect with me</h3>
