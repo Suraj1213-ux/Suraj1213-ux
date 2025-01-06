@@ -23,17 +23,14 @@
      TY-BE <br>
      Branch <b>Computer Engineering</b>
  </div>
-<div align="center"> 
-  [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suraj24604@gmail.com)](mailto:suraj24604@gmail.com)
-  <a href="https://www.linkedin.com/in/suraj-sawant-19042b317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
- </a> 
-</div>
 
-<h2 align="center">Jai Shri Ram | Jai Hanuman </h2>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/suraj-sawant-19042b317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj sawant" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@suraj24604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suraj24604" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suraj_sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj_sawant" height="30" width="40" /></a>
+</p>
+
 
 ## ⚡ Technologies
 <!--## 👨🏻‍💻 Coding Profiles
