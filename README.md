@@ -78,7 +78,7 @@
      Branch <b>Computer Engineering</b>
  </div>
 <div align="center"> 
-  <a href="mailto:surj24604@gmail.com">
+  <a href="surj24604@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/suraj-sawant-19042b317/" target="_blank">
