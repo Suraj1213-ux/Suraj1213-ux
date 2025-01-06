@@ -27,7 +27,7 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suraj-sawant-19042b317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj sawant" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@suraj24604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suraj24604" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/suraj24604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@suraj24604" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suraj_sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj_sawant" height="30" width="40" /></a>
 </p>
 
