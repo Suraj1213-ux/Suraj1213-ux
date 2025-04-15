@@ -1,7 +1,7 @@
  <h1 align="center">Hi , I'm Suraj Sawant</h1>
  <h3 align="center">A passionate Full Stack Developer </h3>
 
-<!--!v c,ghii myseluaj sntosh si amdel taout ou -->
+<!--!v c,ghii myeluaj sntosh si amdel taout ou -->
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=Suraj1213-ux&label=PROFILE+VIEWS&style=flat-square&color=orange)
 
 <div align="center">
