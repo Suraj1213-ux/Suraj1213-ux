@@ -62,9 +62,10 @@
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YashL3616&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 <a href="https://github.com/Suraj1213-ux" target="_blank">
     <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-Sawant&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj1213-ux&bg_color=000319&color=00fffb&line=675604&point=7b7d07&area=true&hide_border=true" 
         alt="Suraj's GitHub activity graph"
         style="width: 100%; max-width: 1000px; border-radius: 8px;"
     />
 </a>
+
 
