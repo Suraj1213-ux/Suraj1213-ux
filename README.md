@@ -57,10 +57,11 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj1213-ux&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=ff6b6b&ring=00c0ff&currStreakLabel=00c0ff"
     alt="Suraj's GitHub Streak"
-    style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 0 15px #00c0ff;"
+    style="width: 90%; max-width: 400px; border-radius: 12px; box-shadow: 0 0 10px #00c0ff;"
   />
 </p>
 <br>
+
 
 
 
