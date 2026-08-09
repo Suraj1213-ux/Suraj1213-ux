@@ -21,7 +21,7 @@
  </div>
 
 
-## ⚡ Technologies
+## ⚡ Technologies ghh
 <!--## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/ba-LeeCoe-FFA116?style=flat-squae&logo=LeetCode&logoColor=black)](https://leetcode.com/Yash/)-->
